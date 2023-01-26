@@ -74,7 +74,7 @@ Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadshe
 
 Click the button below to try a live demo of NocoDB:
 
-[![Preview](https://cdn.uffizzi.com/demo-button.svg)](https://app.uffizzi.com/demo)
+[![Demo](https://cdn.uffizzi.com/demo-button.svg)](https://app.uffizzi.com/demo)
 
 ## NPX
 
